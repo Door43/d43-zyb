@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zyb:home|Door43 (zyb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zyb|d43-zyb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zyb/archive/master.zip|d43-zyb.zip]]
+
+**Recent Changes**
+{{changes>ns = zyb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zyb|Ethnologue data]]
+
